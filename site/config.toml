@@ -1,13 +1,14 @@
 baseURL = "/"
 
-languageCode = "ja-JP"
-DefaultContentLanguage = "ja"
+languageCode = "en-US"
+DefaultContentLanguage = "en"
 title = "FIGHTING EX LAYER Guide"
 theme = "docdock"
+
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-defaultContentLanguage = "ja"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
@@ -28,7 +29,7 @@ enableMissingTranslationPlaceholders = false
 [params]
 editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
 showVisitedLinks = true # default is false
-themeStyle = "original" # "original" or "flex" # default "flex"
+themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 
 ordersectionsby = "weight" # ordersectionsby = "title"
