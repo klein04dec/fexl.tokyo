@@ -1,5 +1,5 @@
 +++
-title = "システム解説"
+title = "システム"
 description = ""
 weight = 11
 alwaysopen = false

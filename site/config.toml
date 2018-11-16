@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-US"
 DefaultContentLanguage = "en"
-title = "FIGHTING EX LAYER Guide"
+title = "FIGHTING EX LAYER Guide - by Team FEXL Tokyo"
 theme = "docdock"
 
 pygmentsCodeFences = true
@@ -45,7 +45,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Powered by FEXL Tokyo</label>"
+name = "<i class='fa fa-bullhorn'></i> <label>FEXL Tokyo</label>"
 url = "/credits"
 weight = 10
 

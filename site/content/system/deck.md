@@ -1,5 +1,5 @@
 +++
-title = "強氣デッキ攻略"
+title = "強氣デッキ"
 description = ""
 weight = 3
 +++

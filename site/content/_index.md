@@ -1,6 +1,6 @@
 +++
 title = "Home"
-description = "TEST"
+description = ""
 +++
 
 # FIGHTING EX LAYER Guide
@@ -14,3 +14,12 @@ description = "TEST"
 |リリース|2018/11/30(金)|[Steam(Windows)版 発売](https://store.steampowered.com/app/871200/FIGHTING_EX_LAYER/)|
 |リリース|2018/11/30(金)|PS4版 バージョンアップ (Ver1.1.1)|
 |リリース|2018/12/06(木)|PS4用 パッケージ版発売|
+
+### このサイトでの表記について
+
+レバー方向はテンキー表記で示します。たとえばレバー前は「6」、後ろ斜め下は「1」、またニュートラルは「N」と表記します。
+```
+7 8 9
+4 N 6
+1 2 3
+```
