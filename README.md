@@ -12,5 +12,6 @@ git clone https://github.com/cero-t/fexl.tokyo.git
 cd fexl.tokyo
 git submodule init
 git submodule update
+cd site
 hugo server
 ```
