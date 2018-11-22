@@ -1,5 +1,5 @@
 +++
-title = "訃（しらせ） (Shirase)"
+title = "訃（しらせ）"
 description = ""
 weight = 2
 +++

@@ -1,5 +1,5 @@
 +++
-title = "カイリ(Kairi)"
+title = "カイリ"
 description = ""
 weight = 1
 +++

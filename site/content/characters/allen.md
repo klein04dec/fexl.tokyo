@@ -1,5 +1,5 @@
 +++
-title = "アレン・スナイダー(Allen Snider)"
+title = "アレン・スナイダー"
 description = ""
 weight = 6
 +++
