@@ -1,7 +1,7 @@
 +++
 title = "カイリ(Kairi)"
 description = ""
-weight = 2
+weight = 1
 +++
 
 [公式キャラページ](http://www.arika.co.jp/product/fexl_hp/jp/chara_jp/fexl_jp_chara01.html)

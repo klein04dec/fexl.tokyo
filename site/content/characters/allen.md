@@ -1,7 +1,7 @@
 +++
 title = "アレン・スナイダー(Allen Snider)"
 description = ""
-weight = 2
+weight = 6
 +++
 
 [公式キャラページ](http://www.arika.co.jp/product/fexl_hp/jp/chara_jp/fexl_jp_chara06.html)
