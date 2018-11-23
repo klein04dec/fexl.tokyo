@@ -1,7 +1,7 @@
 +++
 title = "キャラ別攻略"
 description = ""
-weight = 11
+weight = 20
 alwaysopen = false
 +++
 

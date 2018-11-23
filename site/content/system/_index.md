@@ -1,7 +1,7 @@
 +++
 title = "システム"
 description = ""
-weight = 11
+weight = 10
 alwaysopen = false
 +++
 
