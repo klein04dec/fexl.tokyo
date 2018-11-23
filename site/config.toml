@@ -45,18 +45,16 @@ home = [ "HTML", "RSS", "JSON"]
 
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>FEXL Tokyo</label>"
-url = "/credits"
+name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+url = "https://github.com/cero-t/fexl.tokyo"
 weight = 10
 
 [[menu.shortcuts]]
-pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> <label>Github repo</label>"
-identifier = "ds"
-url = "https://github.com/cero-t/fexl.tokyo"
+name = "<i class='fa fa-twitch'></i> <label>Twitch</label>"
+url = "https://www.twitch.tv/fexltokyo"
 weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-youtube-play'></i> <label>Youtube</label>"
 url = "https://www.youtube.com/channel/UCLvY34z9sH38CqOVuUvsD2g/"
-weight = 21
+weight = 30
