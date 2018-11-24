@@ -21,7 +21,7 @@ weight = 90
 
 ##### Windows IMEの場合
 
-Windows IMEの「ユーザー辞書ツール」より、ツールの「テキスト ファイルから登録」にて、fexl_dictionary.txtを指定する。
+Windows IMEの「ユーザー辞書ツール」より、ツールの「テキスト ファイルから登録」にて、fexl_dictionary_ime.txtを指定する。
 
 ##### Mac（ことえり）の場合
 
