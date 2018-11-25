@@ -1,7 +1,7 @@
 +++
 title = "プルム＝プルナ"
 description = ""
-weight = 2
+weight = 14
 +++
 
 ## キャラクター概要
