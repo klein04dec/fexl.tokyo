@@ -1,7 +1,7 @@
 +++
 title = "ダラン・マイスター"
 description = ""
-weight = 2
+weight = 5
 +++
 
 ## キャラクター概要

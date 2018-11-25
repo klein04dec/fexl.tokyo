@@ -1,7 +1,7 @@
 +++
 title = "ヴルカーノ・ロッソ"
 description = ""
-weight = 2
+weight = 15
 +++
 
 ## キャラクター概要

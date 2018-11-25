@@ -1,7 +1,7 @@
 +++
 title = "ドクトリン・ダーク"
 description = ""
-weight = 2
+weight = 7
 +++
 
 ## キャラクター概要

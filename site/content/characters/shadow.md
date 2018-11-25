@@ -1,7 +1,7 @@
 +++
 title = "シャドウガイスト"
 description = ""
-weight = 2
+weight = 10
 +++
 
 ## キャラクター概要
