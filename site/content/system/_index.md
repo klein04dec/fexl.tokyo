@@ -2,7 +2,7 @@
 title = "システム"
 description = ""
 weight = 10
-alwaysopen = false
+alwaysopen = true
 +++
 
 ## 公式ドキュメント
