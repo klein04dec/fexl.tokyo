@@ -20,7 +20,7 @@ alwaysopen = true
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2018/11/29(木)|東京（中野）|[中野TRF 負け上がりトーナメント](http://www.trftrf.com/event.html#Thurs)|
+|大会|2018/11/29(木)|東京（中野）|[中野TRF 負け上がりトーナメント](http://www.trftrf.com/event.html#Thurs) ※21:00開始予定|
 |大会|2018/12/02(日)|大阪（茨木）|[ゲームディーノ『FIGHTING EX LAYER』稼働記念大会開催！](http://blog.livedoor.jp/game_dino/archives/54472011.html)|
 |対戦会|2018/12/02(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERフリープレイ対戦会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 |大会|2018/12/02(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|

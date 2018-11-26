@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-US"
 DefaultContentLanguage = "en"
-title = "FIGHTING EX LAYER Guide - by Team FEXL Tokyo"
+title = "FIGHTING EX LAYER Guide"
 theme = "docdock"
 
 pygmentsCodeFences = true
