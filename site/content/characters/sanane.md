@@ -8,7 +8,7 @@ weight = 11
 
 #### 技表
 
-技表は公式サイトを参照してください。  
+技表は公式サイトを参照。  
 [公式キャラページ](http://www.arika.co.jp/product/fexl_hp/jp/chara_jp/fexl_jp_chara11.html)
 
 #### キャラクターの特徴
