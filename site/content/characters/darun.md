@@ -1,6 +1,6 @@
 +++
 title = "ダラン・マイスター"
-description = ""
+description = "FEXLのダラン・マイスターに関する攻略を解説します -- ファイティングEXレイヤー攻略 (FIGHTING EX LAYER GUIDE)"
 weight = 5
 +++
 

@@ -18,5 +18,6 @@ rmdir /Q /S public
 @pause
 hugo
 @pause
-aws s3 cp public s3://fexl.tokyo/%dirName% --recursive
+aws s3 mv s3://fexl.tokyo/public  s3://fexl.tokyo/%dirName% --recursive 
+aws s3 mv public s3://fexl.tokyo/public --recursive
 @pause

@@ -1,6 +1,6 @@
 +++
 title = "キャラ別攻略"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のキャラ別攻略です。"
 weight = 20
 alwaysopen = false
 +++

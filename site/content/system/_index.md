@@ -1,6 +1,6 @@
 +++
 title = "システム解説"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のシステムを解説します。"
 weight = 10
 alwaysopen = true
 +++

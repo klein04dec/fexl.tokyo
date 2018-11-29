@@ -1,6 +1,6 @@
 +++
 title = "強氣デッキ"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の強氣デッキについて解説します。"
 weight = 3
 +++
 

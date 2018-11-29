@@ -1,6 +1,6 @@
 +++
 title = "その他のリソース"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のその他リソースです。"
 weight = 90
 +++
 

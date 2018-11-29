@@ -1,6 +1,6 @@
 +++
 title = "プルム・プルナ"
-description = ""
+description = "FEXLのプルム・プルナに関する攻略を解説します -- ファイティングEXレイヤー攻略 (FIGHTING EX LAYER GUIDE)"
 weight = 14
 +++
 

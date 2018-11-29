@@ -1,6 +1,6 @@
 +++
 title = "システム詳細"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のシステム詳細について解説します。"
 weight = 1
 +++
 

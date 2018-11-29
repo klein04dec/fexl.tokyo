@@ -1,6 +1,6 @@
 +++
 title = "訃（しらせ）"
-description = ""
+description = "FEXLの訃（しらせ）に関する攻略を解説します -- ファイティングEXレイヤー攻略 (FIGHTING EX LAYER GUIDE)"
 weight = 2
 +++
 

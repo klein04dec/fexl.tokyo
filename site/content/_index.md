@@ -16,7 +16,6 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|内容|
 |----|----|----|
-|リリース|2018/11/29(木)|[アーケード版 稼働開始](https://www.taito.co.jp/arc/news/3524)|
 |リリース|2018/11/30(金)|[Steam(Windows)版 発売](https://store.steampowered.com/app/871200/FIGHTING_EX_LAYER/)|
 |リリース|2018/11/30(金)|PS4版 バージョンアップ (Ver1.1.1)|
 |リリース|2018/12/06(木)|PS4用 パッケージ版発売|
@@ -25,7 +24,6 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2018/11/29(木)|東京（中野）|[中野TRF 負け上がりトーナメント](http://trftrf.com/event.html#1129) ※21:00開始予定|
 |大会|2018/12/02(日)|大阪（茨木）|[ゲームディーノ『FIGHTING EX LAYER』稼働記念大会開催！](http://blog.livedoor.jp/game_dino/archives/54472011.html)|
 |対戦会|2018/12/02(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERフリープレイ対戦会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 |大会|2018/12/02(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|

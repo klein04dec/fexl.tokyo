@@ -1,6 +1,6 @@
 +++
 title = "強氣-Gougi-"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の強氣について解説します。"
 weight = 2
 +++
 

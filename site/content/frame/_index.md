@@ -1,6 +1,6 @@
 +++
 title = "フレーム表"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のフレーム表です。"
 weight = 80
 +++
 

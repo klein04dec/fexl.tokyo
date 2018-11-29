@@ -1,6 +1,6 @@
 +++
 title = "[作成中] ブレア・デイム"
-description = ""
+description = "FEXLのブレア・デイムに関する攻略を解説します -- ファイティングEXレイヤー攻略 (FIGHTING EX LAYER GUIDE)"
 weight = 8
 +++
 
