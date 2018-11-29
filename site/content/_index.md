@@ -1,6 +1,6 @@
 +++
 title = "Home"
-description = ""
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略サイトです。"
 +++
 
 # FIGHTING EX LAYER Guide
