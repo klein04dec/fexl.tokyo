@@ -19,6 +19,7 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |リリース|2018/11/30(金)|[Steam(Windows)版 発売](https://store.steampowered.com/app/871200/FIGHTING_EX_LAYER/)|
 |リリース|2018/11/30(金)|PS4版 バージョンアップ (Ver1.1.1)|
 |リリース|2018/12/06(木)|PS4用 パッケージ版発売|
+|アナウンス|2018/12/14(金)|2019年のスケジュールを公開予定|
 
 #### 大会 / 対戦会
 
@@ -29,6 +30,8 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |大会|2018/12/02(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 |対戦会|2018/12/03(月)|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 |大会|2018/12/04(火)|東京（高田馬場）|[ゲーセンミカド ストリートファイターカーニバル（SFC）12](http://sp.ch.nicovideo.jp/mikadogame/blomaga/ar1699549) ※イベントの1種目|
+|大会|2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|
+|対戦会|2018/12/16(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERフリープレイ対戦会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 
 ※さらに先のイベントや、過去のイベント情報については [イベント情報](/events/) を参照してください。
 
