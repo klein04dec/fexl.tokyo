@@ -1,5 +1,12 @@
+<meta name="title" content="{{ .Title }} - {{ .Site.Title }}">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@fexl_info">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 <meta property="og:image" content="{{ "/images/fexl_tokyo.png" | absURL }}" />
-<meta name="twitter:image" content="{{ "/images/fexl_tokyo.png" | absURL }}" />
 <link rel="stylesheet" href="{{"css/custom.css" | relURL}}">
