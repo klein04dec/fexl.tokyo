@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://fexl.tokyo"
 
 languageCode = "en-US"
 DefaultContentLanguage = "en"
