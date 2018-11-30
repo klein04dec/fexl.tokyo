@@ -16,7 +16,7 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|内容|
 |----|----|----|
-|リリース|2018/11/30(金)|[Steam(Windows)版 発売](https://store.steampowered.com/app/871200/FIGHTING_EX_LAYER/)|
+|リリース|2018/11/30(金)|[Steam(Windows)版 発売中！](https://store.steampowered.com/app/871200/FIGHTING_EX_LAYER/)|
 |リリース|2018/11/30(金)|PS4版 バージョンアップ (Ver1.1.1)|
 |リリース|2018/12/06(木)|PS4用 パッケージ版発売|
 |アナウンス|2018/12/14(金)|2019年のスケジュールを公開予定|
