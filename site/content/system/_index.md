@@ -1,8 +1,8 @@
 +++
-title = "システム"
-description = ""
-weight = 11
-alwaysopen = false
+title = "システム解説"
+description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のシステムを解説します。"
+weight = 10
+alwaysopen = true
 +++
 
 ## 公式ドキュメント

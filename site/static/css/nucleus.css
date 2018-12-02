@@ -164,7 +164,7 @@ optgroup {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  table-layout: fixed;
+  table-layout: auto;
   width: 100%; }
 
 tr, td, th {
@@ -510,22 +510,27 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility; }
 
 h1 {
-  font-size: 3.25rem; }
+  font-size: 3rem; }
 
 h2 {
-  font-size: 2.55rem; }
+  font-size: 2rem;
+  padding: 0.5em 0.1em 0.5em 0;
+  border-top: solid 1px;
+  border-bottom: solid 1px; }
 
 h3 {
-  font-size: 2.15rem; }
+  font-size: 1.75rem;
+  padding: 0.3em;
+  border-left: solid 5px #ffaf58; }
 
 h4 {
-  font-size: 1.8rem; }
+  font-size: 1.5rem; }
 
 h5 {
-  font-size: 1.4rem; }
+  font-size: 1.25rem; }
 
 h6 {
-  font-size: 0.9rem; }
+  font-size: 1rem; }
 
 p {
   margin: 1.7rem 0; }
