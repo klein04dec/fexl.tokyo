@@ -24,6 +24,7 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |種別|日程|場所|内容|
 |----|----|----|----|
 |大会|2018/12/06(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
+|大会|2018/12/9(日)|宮城（仙台）|[プレイランドエフワンR ファイティングEXレイヤー大会](https://twitter.com/PLAYLANDF1R/status/1070610099398295552)|
 |対戦会|2018/12/10(月)|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 |大会|2018/12/11(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |大会|2018/12/13(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
