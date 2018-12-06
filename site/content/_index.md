@@ -8,7 +8,7 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 ## FIGHTING EX LAYER攻略
 
 このサイトはFEXL TokyoチームによるFIGHTING EX LAYERの攻略サイトです。  
-攻略情報については、メニューより、システム解説、キャラ別攻略を開いてください。
+攻略内容は [PlayStation 4版](https://www.jp.playstation.com/games/fighting-ex-layer-ps4/)、[Steam版](https://store.steampowered.com/app/871200/FIGHTING_EX_LAYER/)、[アーケード版](https://www.taito.co.jp/nxl/title/0000002360) のいずれにも対応しています。
 
 ## 今後のイベント
 
@@ -16,15 +16,13 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|内容|
 |----|----|----|
-|リリース|2018/12/06(木)|PS4用 パッケージ版発売|
 |アナウンス|2018/12/14(金)|2019年のスケジュールを公開予定|
 
 #### 大会 / 対戦会
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2018/12/06(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
-|大会|2018/12/9(日)|宮城（仙台）|[プレイランドエフワンR ファイティングEXレイヤー大会](https://twitter.com/PLAYLANDF1R/status/1070610099398295552)|
+|大会|2018/12/09(日)|宮城（仙台）|[プレイランドエフワンR ファイティングEXレイヤー大会](https://twitter.com/PLAYLANDF1R/status/1070610099398295552)|
 |対戦会|2018/12/10(月)|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 |大会|2018/12/11(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |大会|2018/12/13(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
