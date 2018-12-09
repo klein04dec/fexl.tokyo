@@ -6,7 +6,7 @@ weight = 80
 
 #### フレーム表
 
-Version 1.0.7（プルム、ロッソ以外） / 1.1.2（プルム、ロッソ）時点のフレーム表  
+Version 1.0.7（はやて、プルム、ロッソ以外） / 1.1.2（はやて、プルム、ロッソ）時点のフレーム表  
 https://docs.google.com/spreadsheets/d/1SlFUa8nokYUuP8VN3quTNTFrIIlIvUJ1bMutO0VtCiU/edit?usp=sharing
 
 #### 注意点
