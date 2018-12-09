@@ -2,6 +2,7 @@
 title = "フレーム表"
 description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のフレーム表です。"
 weight = 80
+aliases = ["/frame/"]
 +++
 
 #### フレーム表

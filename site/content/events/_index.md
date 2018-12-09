@@ -19,7 +19,6 @@ alwaysopen = true
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2018/12/09(日)|宮城（仙台）|[プレイランドエフワンR ファイティングEXレイヤー大会](https://twitter.com/PLAYLANDF1R/status/1070610099398295552)|
 |大会|2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|
 |大会|2018/12/30(日)|大阪（南森町）|[コーハツ KO-HATSU 第1回FIGHTING EX LAYER大会](http://www.ko-hatsu.com/event.htm#fexl)|
 
@@ -41,6 +40,7 @@ alwaysopen = true
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
+|2018/12/09(日)|宮城（仙台）|[プレイランドエフワンR ファイティングEXレイヤー大会](https://twitter.com/PLAYLANDF1R/status/1070610099398295552)|-|-|
 |2018/12/06(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|-|-|
 |2018/12/04(火)|東京（高田馬場）|[ゲーセンミカド ストリートファイターカーニバル（SFC）12](http://sp.ch.nicovideo.jp/mikadogame/blomaga/ar1699549) ※イベントの1種目|[Twitter](https://twitter.com/18goSFEX2plus/status/1069943609456095232)|[YouTube](https://www.youtube.com/watch?v=Q9mmirvJM1Y)|
 |2018/12/02(日)|大阪（茨木）|[ゲームディーノ『FIGHTING EX LAYER』稼働記念大会開催！](http://blog.livedoor.jp/game_dino/archives/54472011.html)|-|-|
