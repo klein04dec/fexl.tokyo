@@ -10,6 +10,14 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 このサイトはFEXL TokyoチームによるFIGHTING EX LAYERの攻略サイトです。  
 攻略内容は [PlayStation 4版](https://www.jp.playstation.com/games/fighting-ex-layer-ps4/)、[Steam版](https://store.steampowered.com/app/871200/FIGHTING_EX_LAYER/)、[アーケード版](https://www.taito.co.jp/nxl/title/0000002360) のいずれにも対応しています。
 
+#### 更新履歴
+
+|日程|ページ|内容|
+|----|------|----
+|2018/12/09(日)|[スカロマニア](/characters/skullo/)|立ち回りとお勧め強氣を追記|
+|2018/12/09(日)|[フレーム表](/frame/)|はやてのデータをVer 1.1.2時点のデータに更新|
+|2018/12/08(土)|[フレーム表](/frame/)|プルムとロッソのデータを追加|
+
 ## 今後のイベント
 
 #### リリース / イベント
