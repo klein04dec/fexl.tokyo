@@ -12,6 +12,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+googleAnalytics = "UA-130663044-1"
 
 # [Languages]
 # [Languages.en]
