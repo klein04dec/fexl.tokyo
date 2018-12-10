@@ -1,7 +1,7 @@
 +++
 title = "バージョンアップ履歴"
 description = "ファイティングEXレイヤー (FIGHTING EX LAYER) のバージョンアップ履歴です。"
-weight = 90
+weight = 80
 +++
 
 ## FIGHTING EX LAYERのバージョンアップ履歴
