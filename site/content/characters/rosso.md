@@ -34,28 +34,28 @@ weight = 15
 
 #### 必殺技
 
-{{% panel theme="default" header="火走り" %}}移動技。弱＜中＜強で移動距離が伸びる。終わり際に硬直があるのでむやみに走るとダメージを食らう可能性がある。{{% /panel %}}
+{{% panel theme="default" header="火走り (N6K / 236K)" %}}移動技。弱＜中＜強で移動距離が伸びる。終わり際に硬直があるのでむやみに走るとダメージを食らう可能性がある。{{% /panel %}}
 
-{{% panel theme="default" header="エオールの翼" %}}小ジャンプ。ジャンプ中にKを押すとエトナの怒りに発生する。{{% /panel %}}
+{{% panel theme="default" header="エオールの翼 (PP / PP)" %}}小ジャンプ。ジャンプ中にKを押すとエトナの怒りに発生する。{{% /panel %}}
 
-{{% panel theme="default" header="エトナの怒り" %}}小ジャンプ中のキック。中段。低めにガードさせると攻めが継続可能。高めにスカしてしゃがみ弱K（すかし小足）も強い。{{% /panel %}}
+{{% panel theme="default" header="エトナの怒り (PP中にK / PP中にK)" %}}小ジャンプ中のキック。中段。低めにガードさせると攻めが継続可能。高めにスカしてしゃがみ弱K（すかし小足）も強い。{{% /panel %}}
 
-{{% panel theme="default" header="ヴルカヌス" %}}その場停滞する飛び道具。起き攻めセットプレイに使用する。{{% /panel %}}
+{{% panel theme="default" header="ヴルカヌス (N4P / 214P)" %}}その場停滞する飛び道具。起き攻めセットプレイに使用する。{{% /panel %}}
 
-{{% panel theme="default" header="ヴェズーヴィオの怒り" %}}三段技。コンボのお供。運搬力が高いため画面端に到達するのが早い。{{% /panel %}}
+{{% panel theme="default" header="ヴェズーヴィオの怒り (N6P,P,K / 236P,P,K)" %}}三段技。コンボのお供。運搬力が高いため画面端に到達するのが早い。{{% /panel %}}
 
-{{% panel theme="default" header="カノッサの屈辱" %}}当て身。弱で上段、中で中段、強で下段が取れる。リターンが大きいのは中だが狙いどころが難しい。{{% /panel %}}
+{{% panel theme="default" header="カノッサの屈辱 (N4K / 214K)" %}}当て身。弱で上段、中で中段、強で下段が取れる。リターンが大きいのは中だが狙いどころが難しい。{{% /panel %}}
 
-{{% panel theme="default" header="レガーロ" %}}飛び道具専用の当て身。相手の飛び道具に合わせて出すと発生技まで自動で出る。{{% /panel %}}
+{{% panel theme="default" header="レガーロ (中P中K / 中P中K)" %}}飛び道具専用の当て身。相手の飛び道具に合わせて出すと発生技まで自動で出る。{{% /panel %}}
 
 
 #### スーパーコンボ
 
-{{% panel theme="default" header="ため息の橋" %}}空中で相手を三回踏みつけるカッコいい技。{{% /panel %}}
+{{% panel theme="default" header="ため息の橋 (46P / 236236P)" %}}空中で相手を三回踏みつけるカッコいい技。{{% /panel %}}
 
-{{% panel theme="default" header="ピサの斜塔" %}}受け身不能ダウンになるため起き攻め継続に利用する。{{% /panel %}}
+{{% panel theme="default" header="ピサの斜塔 (64P / 214214P)" %}}受け身不能ダウンになるため起き攻め継続に利用する。{{% /panel %}}
 
-{{% panel theme="default" header="アッチェレランド" %}}蹴って殴るカッコいい技。コンボダメージの底上げに。{{% /panel %}}
+{{% panel theme="default" header="アッチェレランド (64K / 214214K)" %}}蹴って殴るカッコいい技。コンボダメージの底上げに。{{% /panel %}}
 
 
 ## コンボ解説
