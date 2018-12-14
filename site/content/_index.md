@@ -14,7 +14,8 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |日程|ページ|内容|
 |----|------|----
-|2018/12/14(月)|[イベント情報](/events/)|2019年5月末までの情報を掲載。[情報源はARIKAが公開した動画](https://www.youtube.com/watch?v=ReOCuG2LPvw)|
+|2018/12/14(金)|[イベント情報](/events/)|2019年5月末までの情報を掲載。[情報源はARIKAが公開した動画](https://www.youtube.com/watch?v=ReOCuG2LPvw)|
+|2018/12/14(金)|[キャラ別攻略](/characters/)|必殺技とスーパーコンボにコマンドを記載|
 |2018/12/10(月)|[バージョンアップ履歴](/updates/)|新規追加。ARIKAのFacebookにて公開されている情報を掲載|
 |2018/12/09(日)|[スカロマニア](/characters/skullo/)|立ち回りとお勧め強氣を追記|
 |2018/12/09(日)|[フレーム表](/system/frame/)|はやてのデータをVer 1.1.2時点のデータに更新|
