@@ -54,7 +54,7 @@ weight = 9
 
 {{% panel theme="default" header="フェイントダッシュ (N3P / 623P)" %}}ダッシュストレートのフェイント。大攻撃から出しても不利なので使う機会はない。{{% /panel %}}
 
-{{% panel theme="default" header="アルティメイトパンチ (PPPorKKK / PPPorKKK)" %}}PPPもしくはKKKを押しっぱなしにして離すと出せる。高火力だが使う機会は少ない。最大溜め時間は1879fでHP半分を吹き飛ばす。{{% /panel %}}
+{{% panel theme="default" header="アルティメイトパンチ (PPP or KKK / PPP or KKK)" %}}PPPもしくはKKKを押しっぱなしにして離すと出せる。高火力だが使う機会は少ない。最大溜め時間は1879fでHP半分を吹き飛ばす。{{% /panel %}}
 
 {{% panel theme="default" header="ジャックハンマー (N8P / 1回転P)" %}}貴重なコマンド投げ。複合グラップもあり投げ抜けが難しくないゲームなので投げ抜け不可なコマンド投げは重宝する。{{% /panel %}}
 
