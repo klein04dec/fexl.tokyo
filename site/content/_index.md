@@ -19,7 +19,6 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |2018/12/10(月)|[バージョンアップ履歴](/updates/)|新規追加。ARIKAのFacebookにて公開されている情報を掲載|
 |2018/12/09(日)|[スカロマニア](/characters/skullo/)|立ち回りとお勧め強氣を追記|
 |2018/12/09(日)|[フレーム表](/system/frame/)|はやてのデータをVer 1.1.2時点のデータに更新|
-|2018/12/08(土)|[フレーム表](/system/frame/)|プルムとロッソのデータを追加|
 
 ## 今後のイベント
 
@@ -33,12 +32,11 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|
 |対戦会|2018/12/16(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERフリープレイ対戦会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 |大会|2018/12/16(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
-|対戦会|2018/12/17(月)|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 |大会|2018/12/18(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |大会|2018/12/20(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
+|対戦会|2018/12/20(木)|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 
 ※さらに先のイベントや、過去のイベント情報については [イベント情報](/events/) を参照してください。
 

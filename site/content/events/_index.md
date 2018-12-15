@@ -22,7 +22,6 @@ alwaysopen = true
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|
 |大会|2018/12/30(日)|大阪（南森町）|[コーハツ KO-HATSU 第1回FIGHTING EX LAYER大会](http://www.ko-hatsu.com/event.htm#fexl)|
 |大会|2019/3/23(土)、24(日)|東京|[闘神祭 2018-2019](https://www.toushinsai.com/)|
 
@@ -36,7 +35,7 @@ alwaysopen = true
 |定期大会|第2～5木曜日|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |定期大会|第1日曜日|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 |定期対戦会|第1、第3、第5日曜日|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERフリープレイ対戦会』](https://twitter.com/public_bigone/status/1066253301459509248)|
-|定期対戦会|毎週月曜日|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
+|定期対戦会|毎週木曜日|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 
 ## 過去のイベント
 
@@ -44,6 +43,7 @@ alwaysopen = true
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
+|2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|[twitter](https://twitter.com/Gstage_Nanakuma/status/1073834139479027712)|-|
 |2018/12/09(日)|宮城（仙台）|[プレイランドエフワンR ファイティングEXレイヤー大会](https://twitter.com/PLAYLANDF1R/status/1070610099398295552)|-|-|
 |2018/12/06(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|-|-|
 |2018/12/04(火)|東京（高田馬場）|[ゲーセンミカド ストリートファイターカーニバル（SFC）12](http://sp.ch.nicovideo.jp/mikadogame/blomaga/ar1699549) ※イベントの1種目|[Twitter](https://twitter.com/18goSFEX2plus/status/1069943609456095232)|[YouTube](https://www.youtube.com/watch?v=Q9mmirvJM1Y)|
