@@ -1,7 +1,7 @@
 +++
 title = "中上級コンボ"
 description = "FEXLの訃（しらせ / シラセ）のコンボを解説します -- ファイティングEXレイヤー攻略 (FIGHTING EX LAYER GUIDE)"
-weight = 2
+weight = 1
 +++
 
 ## 空中コンボの基本形とその応用
