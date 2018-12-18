@@ -17,7 +17,10 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |2018/12/16(日)|[シラセ/中上級コンボ](/characters/shirase/combo/)|中上級コンボを追加（作成中）|
 |2018/12/14(金)|[イベント情報](/events/)|2019年5月末までの情報を掲載。[情報源はARIKAが公開した動画](https://www.youtube.com/watch?v=ReOCuG2LPvw)|
 |2018/12/14(金)|[キャラ別攻略](/characters/)|必殺技とスーパーコンボにコマンドを記載|
-|2018/12/10(月)|[バージョンアップ履歴](/updates/)|新規追加。ARIKAのFacebookにて公開されている情報を掲載|
+
+#### 注目のツイート
+
+{{< tweet 1074918633757757440 >}}
 
 ## 今後のイベント
 
@@ -31,15 +34,13 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2018/12/18(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |大会|2018/12/20(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |対戦会|2018/12/20(木)|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
-<!--
 |大会|2018/12/27(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
+|対戦会|2018/12/27(木)|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 |大会|2018/12/30(日)|大阪（南森町）|[コーハツ KO-HATSU 第1回FIGHTING EX LAYER大会](http://www.ko-hatsu.com/event.htm#fexl)|
 |大会|2018/12/30(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
 |対戦会|2018/12/30(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERフリープレイ対戦会』](https://twitter.com/public_bigone/status/1066253301459509248)|
--->
 
 ※さらに先のイベントや、過去のイベント情報については [イベント情報](/events/) を参照してください。
 
