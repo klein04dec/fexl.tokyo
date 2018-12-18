@@ -4,11 +4,10 @@ frontend:
     # IMPORTANT - Please verify your build commands
     build:
       commands:
-        - cd site
         - hugo
   artifacts:
     # IMPORTANT - Please verify your build output directory
-    baseDirectory: site/public
+    baseDirectory: public
     files:
       - '**/*'
   cache:
