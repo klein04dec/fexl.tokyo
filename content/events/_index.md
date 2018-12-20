@@ -53,6 +53,7 @@ alwaysopen = false
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
+|2018/12/20(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|-|-|
 |2018/12/18(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|-|-|
 |2018/12/16(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|-|-|
 |2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|[twitter](https://twitter.com/Gstage_Nanakuma/status/1073834139479027712)|-|
