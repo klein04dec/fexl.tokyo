@@ -34,8 +34,8 @@ alwaysopen = false
 |定期大会|第1木曜日|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
 |定期大会|第2～5木曜日|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |定期大会|第1日曜日|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|
-|定期対戦会|第1、第3、第5日曜日|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERフリープレイ対戦会』](https://twitter.com/public_bigone/status/1066253301459509248)|
-|定期対戦会|毎週木曜日|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
+|定期対戦会|第1、第3、第5日曜日|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
+|定期対戦会|第1、第3、第5木曜日|大阪（南森町）|[コーハツ KO-HATSU 初心者歓迎！FIGHTING EX LAYER定額対戦会](http://www.ko-hatsu.com/event.htm#fexl)|
 
 ## 過去のイベント
 
