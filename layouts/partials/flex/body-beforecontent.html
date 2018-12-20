@@ -41,8 +41,10 @@
     <div class="nav-select">
       <center>Navigation : 
         <select onchange="javascript:location.href = this.value;">
-          <option value="{{"/" | relLangURL}}">Home</option> 
-          {{partial "flex/selectnavigation.html" .}}
+          <optgroup label="Navigation">
+            <option value="{{"/" | relLangURL}}">Home</option> 
+            {{partial "flex/selectnavigation.html" .}}
+          </optgroup>
         </select>
       </center>
     </div>
@@ -67,4 +69,4 @@
     {{- end}}
     
 
-    {{if not .IsHome}}<h1>{{.Title}}</h1>{{end}}
+    {{if not .IsHome}}<h1>{{if .Params.pageTitle}}{{.Params.pageTitle}}{{else}}{{.Title}}{{end}}</h1>{{end}}
