@@ -24,6 +24,7 @@ alwaysopen = false
 |----|----|----|----|
 |対戦会|2018/12/23(日)|岩手（盛岡）|[ゲームヴィクト盛岡 ファイティングEXレイヤー 定額フリープレイ対戦会](https://www.aegis-game.com/taikai-kouryukai?lightbox=dataItem-jo6yyj491)|
 |大会|2018/12/30(日)|大阪（南森町）|[コーハツ KO-HATSU 第1回FIGHTING EX LAYER大会](http://www.ko-hatsu.com/event.htm#fexl)|
+|大会|2019/1/3(木)|東京（中野）|[中野TRF 年明けSPレベル分け交流２on２大会](http://trftrf.com/event.html#0103)|
 |大会|2019/3/23(土)、24(日)|東京|[闘神祭 2018-2019](https://www.toushinsai.com/)|
 
 #### 定期イベント
