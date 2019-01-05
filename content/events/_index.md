@@ -23,7 +23,6 @@ alwaysopen = false
 |種別|日程|場所|内容|
 |----|----|----|----|
 |大会|2018/12/30(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1078508328202825728)|
-|大会|2019/1/3(木)|東京（中野）|[中野TRF 年明けSPレベル分け交流２on２大会](http://trftrf.com/event.html#0103)|
 |大会|2019/2/9(土)|東京|[STRONG STYLE JAPAN コミュニティイベント](https://strongstylejp.walker-gaming.net/event.html)|
 |大会|2019/2/15(金)～17(日)|福岡|[Evo Japan 2019 サイドトーナメント](https://www.evojapan.net/2019/)|
 |大会|2019/3/23(土)、24(日)|東京|[闘神祭 2018-2019](https://www.toushinsai.com/)|
