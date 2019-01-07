@@ -35,6 +35,7 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |種別|日程|場所|内容|
 |----|----|----|----|
 |大会|2019/1/10(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
+|大会|2019/1/12(土)|東京（新宿）|[クラブセガ新宿西口 シングル大会](https://twitter.com/18goSFEX2plus/status/1082175967022346241)|
 |大会|2019/1/15(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 <!--
 |大会|2019/1/17(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
