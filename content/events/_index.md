@@ -23,7 +23,7 @@ alwaysopen = false
 |種別|日程|場所|内容|
 |----|----|----|----|
 |大会|2019/1/12(土)|東京（新宿）|[クラブセガ新宿西口 シングル大会](https://twitter.com/18goSFEX2plus/status/1082175967022346241)|
-|大会|2019/1/20(日)|大阪（茨木）|[ゲームディーノ 『FIGHTING EX LAYER』シングル大会](https://twitter.com/gamedino_i/status/1083322394314305536)|
+|大会|2019/1/20(日)|大阪（茨木）|[ゲームディーノ 『FIGHTING EX LAYER』シングル大会](http://blog.livedoor.jp/game_dino/archives/54716938.html)|
 |大会|2019/2/9(土)|東京|[STRONG STYLE JAPAN コミュニティイベント](https://strongstylejp.walker-gaming.net/event.html)|
 |大会|2019/2/15(金)～17(日)|福岡|[Evo Japan 2019 サイドトーナメント](https://www.evojapan.net/2019/)|
 |大会|2019/3/23(土)、24(日)|東京|[闘神祭 2018-2019](https://www.toushinsai.com/)|
