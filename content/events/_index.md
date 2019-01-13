@@ -22,7 +22,7 @@ alwaysopen = false
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/1/12(土)|東京（新宿）|[クラブセガ新宿西口 シングル大会](https://twitter.com/18goSFEX2plus/status/1082175967022346241)|
+|大会|2019/1/14(月)|新潟|[ゲームセンターテクノポリス「ファイティングEXレイヤー スペシャル大会」](https://twitter.com/GC_Tecnopolis/status/1084334036426711041)|
 |大会|2019/1/20(日)|大阪（茨木）|[ゲームディーノ 『FIGHTING EX LAYER』シングル大会](http://blog.livedoor.jp/game_dino/archives/54716938.html)|
 |大会|2019/2/9(土)|東京|[STRONG STYLE JAPAN コミュニティイベント](https://strongstylejp.walker-gaming.net/event.html)|
 |大会|2019/2/15(金)～17(日)|福岡|[Evo Japan 2019 サイドトーナメント](https://www.evojapan.net/2019/)|
@@ -58,6 +58,7 @@ alwaysopen = false
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
+|2019/1/12(土)|東京（新宿）|[クラブセガ新宿西口 シングル大会](https://twitter.com/18goSFEX2plus/status/1082175967022346241)|
 |2019/1/3(木)|東京（中野）|[中野TRF 年明けSPレベル分け交流２on２大会](http://trftrf.com/event.html#0103)|-|-|
 |2018/12/30(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1078508328202825728)|[twitter](https://twitter.com/18goSFEX2plus/status/1079323340022530048)|-|
 |2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|[twitter](https://twitter.com/Gstage_Nanakuma/status/1073834139479027712)|-|
