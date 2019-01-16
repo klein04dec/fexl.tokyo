@@ -28,15 +28,13 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|内容|
 |----|----|----|
-|リリース|2019/1月上旬|アーケード版のアップデート|
+|リリース|2019/2月中旬|ゲーム調整、ミュージック追加|
 
 #### 大会 / 対戦会
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/1/15(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |大会|2019/1/17(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
-|大会|2019/1/20(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
 |大会|2019/1/20(日)|大阪（茨木）|[ゲームディーノ 『FIGHTING EX LAYER』シングル大会](http://blog.livedoor.jp/game_dino/archives/54716938.html)|
 |対戦会|2019/1/20(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
 
