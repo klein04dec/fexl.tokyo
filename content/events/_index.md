@@ -31,7 +31,7 @@ alwaysopen = false
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|定期大会|第1、第3、第5日曜日|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
+|定期大会|第2、第4日曜日|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
 |定期大会|第1、第3、第5火曜日|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |定期大会|第1木曜日|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
 |定期大会|第2～5木曜日|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
