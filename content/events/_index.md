@@ -21,7 +21,6 @@ alwaysopen = false
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/1/20(日)|大阪（茨木）|[ゲームディーノ 『FIGHTING EX LAYER』シングル大会](http://blog.livedoor.jp/game_dino/archives/54716938.html)|
 |大会|2019/2/9(土)|東京|[STRONG STYLE JAPAN コミュニティイベント](https://strongstylejp.walker-gaming.net/event.html)|
 |大会|2019/2/15(金)～17(日)|福岡|[Evo Japan 2019 サイドトーナメント](https://www.evojapan.net/2019/)|
 |大会|2019/3/23(土)、24(日)|東京|[闘神祭 2018-2019](https://www.toushinsai.com/)|
@@ -56,6 +55,7 @@ alwaysopen = false
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
+|2019/1/20(日)|大阪（茨木）|[ゲームディーノ 『FIGHTING EX LAYER』シングル大会](http://blog.livedoor.jp/game_dino/archives/54716938.html)|-|-|
 |2019/1/14(月)|新潟|[ゲームセンターテクノポリス ファイティングEXレイヤースペシャル大会](https://twitter.com/GC_Tecnopolis/status/1084334036426711041)|-|-|
 |2019/1/12(土)|東京（新宿）|[クラブセガ新宿西口 シングル大会](https://twitter.com/18goSFEX2plus/status/1082175967022346241)|[Twitter](https://twitter.com/BA_shinjuku/status/1084782529775718403)|[YouTube](https://www.youtube.com/watch?v=88Jk9hGw1Ew&feature=youtu.be&a=)|
 |2019/1/3(木)|東京（中野）|[中野TRF 年明けSPレベル分け交流２on２大会](http://trftrf.com/event.html#0103)|-|-|
