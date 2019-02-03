@@ -18,10 +18,6 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |2018/12/23(日)|[シラセ/中上級コンボ](/characters/shirase/combo/)|重力補正の考慮について追記。画面端限定の刻みコンボに説明を追記し、バリエーションを追加。|
 |2018/12/23(日)|[シラセ/基本攻略](/characters/shirase/basic/)|連昇激が当たらない状況とキャラを整理して追記。|
 
-#### 注目のツイート
-
-{{< tweet 1074918633757757440 >}}
-
 ## 今後のイベント
 
 #### リリース / イベント
@@ -34,10 +30,11 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/1/29(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
-|大会|2019/1/31(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |大会|2019/2/3(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 |対戦会|2019/2/3(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
+|大会|2019/2/5(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
+|大会|2019/2/7(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
+|大会|2019/2/9(土)|東京（品川）|[FEXL Tokyo Grand Prix (STRONG STYLE JAPAN コミュニティイベント)](https://fexl.connpass.com/event/114752/)|
 
 ※さらに先のイベントや、過去のイベント情報については [イベント情報](/events/) を参照してください。
 
