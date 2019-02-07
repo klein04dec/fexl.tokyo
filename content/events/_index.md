@@ -24,7 +24,7 @@ alwaysopen = false
 |種別|日程|場所|内容|
 |----|----|----|----|
 |大会|2019/2/9(土)|東京（品川）|[FEXL Tokyo Grand Prix (STRONG STYLE JAPAN コミュニティイベント)](https://fexl.connpass.com/event/114752/)|
-|大会|2019/2/15(金)～17(日)|福岡|[Evo Japan 2019 サイドトーナメント](https://fexl.connpass.com/event/116790/)|
+|大会|2019/2/16(土)|福岡|[Evo Japan 2019 サイドトーナメント](https://fexl.connpass.com/event/116790/)|
 |大会|2019/3/23(土)、24(日)|東京|[闘神祭 2018-2019](https://www.toushinsai.com/)|
 |大会|2019/5/2(木)～5(日)|大阪|[KVO×TSB2019](https://twitter.com/KVOJAPAN/status/1078984198310875136)|
 
