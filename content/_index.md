@@ -30,6 +30,7 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
+|大会|2019/2/14(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |大会|2019/2/16(土)|福岡（博多）|[Evo Japan 2019 サイドトーナメント](https://fexl.connpass.com/event/116790/)|
 |大会|2019/2/17(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
 |大会|2019/2/19(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
