@@ -23,7 +23,6 @@ alwaysopen = false
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/2/9(土)|東京（品川）|[FEXL Tokyo Grand Prix (STRONG STYLE JAPAN コミュニティイベント)](https://fexl.connpass.com/event/114752/)|
 |大会|2019/2/16(土)|福岡|[Evo Japan 2019 サイドトーナメント](https://fexl.connpass.com/event/116790/)|
 |大会|2019/3/23(土)、24(日)|東京|[闘神祭 2018-2019](https://www.toushinsai.com/)|
 |大会|2019/5/2(木)～5(日)|大阪|[KVO×TSB2019](https://twitter.com/KVOJAPAN/status/1078984198310875136)|
@@ -47,6 +46,7 @@ alwaysopen = false
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
+|2019/2/9(土)|東京（品川）|[FEXL Tokyo Grand Prix (STRONG STYLE JAPAN コミュニティイベント)](https://fexl.connpass.com/event/114752/)|[challonge](https://challonge.com/ja/fexltokyogp1)|-|
 |2018/10/11(土)|アメリカ（ニュージャージー）|[East Coast Throwdown 2018 FIGHTING EX LAYER](https://smash.gg/tournament/east-coast-throwdown-2018/events/fighting-ex-layer/overview)|[smash.gg](https://smash.gg/tournament/east-coast-throwdown-2018/events/fighting-ex-layer/brackets/389729)|[Twitch](https://www.twitch.tv/videos/325115446)|
 |2018/8/11(土)|東京（京急蒲田）|[TOP8 FIGHTING EX LAYER 1on1トーナメント](http://shinobism.com/tokyo-offline-party-8-fighting-ex-layer)|[challonge](https://challonge.com/ja/TOP8_FEXL_1on1)|-|
 |2018/8/3(金)～4(土)|アメリカ（ラスベガス）|[Evo 2018 FIGHTING EX LAYER Side Tournament](https://smash.gg/tournament/evo-2018-fighting-ex-layer-side-tournament/details)|[smash.gg](https://smash.gg/tournament/evo-2018-fighting-ex-layer-side-tournament/events/fighting-ex-layer/brackets/336870)|[YouTube](https://www.youtube.com/watch?v=TUVmO02TFDA)|
